@@ -8,11 +8,11 @@
     display: table;
     content: "";
     clear:both;
-  }
+}
 header{
     margin-bottom: 30px;
 }
-.pagina{
+body{
     width: 80%;
     margin: auto;
 }
@@ -76,7 +76,7 @@ nav {
     background-color: rgba(0,0,0,0.2);
     border-radius: 15px;
 }
-main h4{
+h4{
     color: gray;
     font-weight: lighter;
     margin-bottom: 30px;
@@ -97,6 +97,7 @@ main .p-destra{
 main .p-centrale{
     width: 60%;
     padding: 0px 20px;
+
 }
 .spazio-interno{
     height: 100%;
@@ -124,4 +125,4 @@ main .p-centrale{
     height: 250px;
     position: absolute;
     border-radius: 15px;
-  }
+}
